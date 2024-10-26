@@ -23,14 +23,12 @@
   font-weight: normal;
 }
 
-.vfrc-avatar {
-  opacity: 0%;
+.c-kIbiaN-eyfkxi-size-large {
   max-height: 0px;
 }
 
 .vfrc-assistant-info--title, .vfrc-assistant-info--description {
-  color: #ffb400;
-  font-size: 20px;
+  font-size: 0px;
 }
 
 /* Chat window styling */
