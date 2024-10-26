@@ -5,6 +5,7 @@
   color: #ffb400;
   font-family: 'New Amsterdam', monospace;
   font-size: 14px;
+  max-height: 600px;
 }
 
 /* Header styling */
