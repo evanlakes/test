@@ -1,11 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=New+Amsterdam:wght@400;600&display=swap');
 
+#chat-block {
+  max-height: 600px;
+}
+
 /* General background and header colors */
 .vfrc-widget {
   color: #ffb400;
   font-family: 'New Amsterdam', monospace;
   font-size: 14px;
-  max-height: 600px;
 }
 
 /* Header styling */
