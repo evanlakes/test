@@ -28,7 +28,7 @@
 }
 
 .vfrc-assistant-info--title {
-  color: (0,0,0,0);
+  opacity: 0;
 }
 
 /* Chat window styling */
@@ -43,6 +43,7 @@
 }
 
 .vfrc-chat--dialog {
+  max-height: 250px;
   max-height: 500px;
 }
 
