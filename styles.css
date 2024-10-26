@@ -29,6 +29,7 @@
 
 .vfrc-assistant-info--title, .vfrc-assistant-info--description {
   font-size: 0px;
+  opacity: 0%;
 }
 
 /* Chat window styling */
