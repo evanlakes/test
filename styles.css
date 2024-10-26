@@ -23,11 +23,9 @@
   font-weight: normal;
 }
 
-/*
 .vfrc-avatar {
   opacity: 0%;
 }
-*/
 
 .vfrc-assistant-info--title, .vfrc-assistant-info--description {
   color: #ffb400;
@@ -43,6 +41,11 @@
   background-position-y: 40px;
   background-size: contain;
   background-attachment: scroll;
+}
+
+.vfrc-chat--dialog {
+  min-height: 500px;
+  max-height: 500px;
 }
 
 /* Bot message styles */
