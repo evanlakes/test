@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=New+Amsterdam');
 
 .vfrc-chat {
+  min-height: 500px;
   max-height: 500px;
 }
 
