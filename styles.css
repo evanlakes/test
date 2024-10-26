@@ -95,21 +95,21 @@
 }
 
 /* Scrollbar width */
-.vfrc-chat::-webkit-scrollbar {
+.vfrc-chat ::-webkit-scrollbar {
   width: 10px;
 }
 
 /* Scrollbar track */
-.vfrc-chat::-webkit-scrollbar-track {
+.vfrc-chat ::-webkit-scrollbar-track {
   background: #404040;
 }
 
 /* Scrollbar thumb */
-.vfrc-chat::-webkit-scrollbar-thumb {
+.vfrc-chat ::-webkit-scrollbar-thumb {
   background: #ffb400;
 }
 
 /* On hover: Scrollbar thumb */
-.vfrc-chat::-webkit-scrollbar-thumb:hover {
+.vfrc-chat ::-webkit-scrollbar-thumb:hover {
   background: #ffd05e;
 }
