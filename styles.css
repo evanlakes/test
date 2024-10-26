@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam:wght@400;600&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam:wght@400;600&display=swap');*/
 
 #chat-block {
   max-height: 600px;
@@ -7,7 +7,7 @@
 /* General background and header colors */
 .vfrc-widget {
   color: #ffb400;
-  font-family: 'New Amsterdam', monospace;
+  /*font-family: 'New Amsterdam', monospace;*/
   font-size: 14px;
 }
 
@@ -16,13 +16,13 @@
   background-color: #272727;
   color: #ffb400;
   border-bottom: 1px solid #404040;
-  font-family: 'New Amsterdam', monospace;
+  /*font-family: 'New Amsterdam', monospace;*/
 }
 
 /* Header title styling */
 .vfrc-header--title {
   color: #ffb400; /* Font color */
-  font-family: 'New Amsterdam', monospace;
+  /*font-family: 'New Amsterdam', monospace;*/
   font-size: 32px;
   font-weight: normal;
 }
@@ -41,7 +41,7 @@
 /* Chat window styling */
 .vfrc-chat {
   background-color: #272727;
-  background-image: url("autoforge_banner.png"), linear-gradient(to right, #1f1f1f, #373737);
+  background-image: url("https://i0.wp.com/gigabot.net/wp-content/uploads/2024/10/autoforge_banner.png"), linear-gradient(to right, #1f1f1f, #373737);
   background-repeat: no-repeat;
   background-position: top;
   background-position-y: 40px;
