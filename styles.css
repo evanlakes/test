@@ -25,6 +25,7 @@
 
 .vfrc-avatar {
   opacity: 0%;
+  max-height: 0px;
 }
 
 .vfrc-assistant-info--title, .vfrc-assistant-info--description {
