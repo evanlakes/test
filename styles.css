@@ -1,13 +1,9 @@
-/*@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam:wght@400;600&display=swap');*/
-
-.vfrc-chat {
-  max-height: 600px;
-}
+@import url('https://fonts.googleapis.com/css?family=New+Amsterdam');
 
 /* General background and header colors */
 .vfrc-widget {
   color: #ffb400;
-  /*font-family: 'New Amsterdam', monospace;*/
+  font-family: 'New Amsterdam', monospace;
   font-size: 14px;
 }
 
@@ -16,13 +12,13 @@
   background-color: #272727;
   color: #ffb400;
   border-bottom: 1px solid #404040;
-  /*font-family: 'New Amsterdam', monospace;*/
+  font-family: 'New Amsterdam', monospace;
 }
 
 /* Header title styling */
 .vfrc-header--title {
-  color: #ffb400; /* Font color */
-  /*font-family: 'New Amsterdam', monospace;*/
+  color: #ffb400;
+  font-family: 'New Amsterdam', monospace;
   font-size: 32px;
   font-weight: normal;
 }
@@ -34,7 +30,7 @@
 */
 
 .vfrc-assistant-info--title, .vfrc-assistant-info--description {
-  color: #ffb400; /* Header below icon inside open bot window */
+  color: #ffb400;
   font-size: 20px;
 }
 
