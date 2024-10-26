@@ -27,9 +27,8 @@
   max-height: 0px;
 }
 
-.vfrc-assistant-info--title, .vfrc-assistant-info--description {
+.vfrc-assistant-info--title {
   font-size: 0px;
-  opacity: 0%;
 }
 
 /* Chat window styling */
