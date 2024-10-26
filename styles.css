@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam:wght@400;600&display=swap');
+
+/* General background and header colors */
+.vfrc-widget {
+  color: #ffb400;
+  font-family: 'New Amsterdam', monospace;
+  font-size: 14px;
+}
+
+/* Header styling */
+.vfrc-header {
+  background-color: #272727;
+  color: #ffb400;
+  border-bottom: 1px solid #404040;
+  font-family: 'New Amsterdam', monospace;
+}
+
+/* Header title styling */
+.vfrc-header--title {
+  color: #ffb400; /* Font color */
+  font-family: 'New Amsterdam', monospace;
+  font-size: 32px;
+  font-weight: normal;
+}
+
+/*
+.c-kIbiaN-eyfkxi-size-large {
+  opacity: 0%;
+}
+*/
+
+.vfrc-assistant-info--title, .vfrc-assistant-info--description {
+  color: #ffb400; /* Header below icon inside open bot window */
+  font-size: 20px;
+}
+
+/* Chat window styling */
+.vfrc-chat {
+  background-color: #272727;
+  background-image: url("autoforge_banner.png"), linear-gradient(to right, #1f1f1f, #373737);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-position-y: 40px;
+  background-size: contain;
+  background-attachment: scroll;
+}
+
+/* Bot message styles */
+.vfrc-system-response .vfrc-message {
+  background-color: #404040;
+  color: #ffffff;
+  border: 2px solid #272727;
+}
+
+/* User message styles */
+.vfrc-user-response .vfrc-message{
+  background-color: #a57300;
+  color: #ffffff;
+  border: 2px solid #272727;
+}
+
+/* Input styles */
+.vfrc-chat-input textarea, .vfrc-chat-input--button {
+  background-color: #404040 !important;
+  color: #ffffff !important;
+}
+
+/* Buttons and launcher styles */
+.vfrc-button, .vfrc-launcher {
+  background-color: #ffb400;
+  color: #272727;
+  border: 3px solid #272727;
+}
+
+/* Launcher specific styling */
+.vfrc-launcher {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  position: bottom right;
+  right: 0;
+  margin-right: 0px;
+  bottom: 20px;
+  z-index: 1000;
+}
+
+/* Popup messages styling */
+.vfrc-proactive-message {
+  background-color: #404040;
+  color: #ffb400;
+  border: 2px solid #272727;
+  position: relative;
+}
+
+/* Scrollbar width */
+.vfrc-chat::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Scrollbar track */
+.vfrc-chat::-webkit-scrollbar-track {
+  background: #404040;
+}
+
+/* Scrollbar thumb */
+.vfrc-chat::-webkit-scrollbar-thumb {
+  background: #ffb400;
+}
+
+/* On hover: Scrollbar thumb */
+.vfrc-chat::-webkit-scrollbar-thumb:hover {
+  background: #ffd05e;
+}
