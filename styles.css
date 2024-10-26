@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=New+Amsterdam');
 
+.vfrc-chat {
+  max-height: 500px;
+}
+
 /* General background and header colors */
 .vfrc-widget {
   color: #ffb400;
@@ -24,7 +28,7 @@
 }
 
 /*
-.c-kIbiaN-eyfkxi-size-large {
+.vfrc-avatar {
   opacity: 0%;
 }
 */
