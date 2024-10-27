@@ -80,6 +80,13 @@
   border: 3px solid #ffb400;
 }
 
+/* End Chat button on hover */
+.c-bXTvXv-XJvOL-type-warn:hover {
+  background-color: #d0362e;
+  color: #000000;
+  border: 3px solid #000000;
+}
+
 /* Remove Voiceflow footer */
 .vfrc-footer--watermark {
   opacity: 0;
