@@ -74,6 +74,12 @@
   border: 3px solid #272727;
 }
 
+.vfrc-button:hover {
+  background-color: #272727;
+  color: #ffb400;
+  border: 3px solid #ffb400;
+}
+
 /* Remove Voiceflow footer */
 .vfrc-footer--watermark {
   opacity: 0;
