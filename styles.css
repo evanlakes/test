@@ -83,8 +83,15 @@
 /* End Chat button on hover */
 .c-bXTvXv-XJvOL-type-warn:hover {
   background-color: #d0362e;
-  color: #000000;
-  border: 3px solid #000000;
+  color: #272727;
+  border: 3px solid #272727;
+}
+
+/* Cancel button on hover */
+.c-bXTvXv-XJvOL-type-subtle:hover {
+  background-color: #a57300;
+  color: #272727;
+  border: 3px solid #272727;
 }
 
 /* Remove Voiceflow footer */
